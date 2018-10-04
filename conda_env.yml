@@ -14,7 +14,8 @@ dependencies:
 - scipy
 
 - pip:
+  - PyHamcrest
   - mpi4py
-#  - pycuda
+  - pycuda
   - terminaltables
   - tqdm
